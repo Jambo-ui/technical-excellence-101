@@ -18,4 +18,4 @@ def text(change_test_dir):
 
 
 def test_has_header(text):
-    assert '# Сказка про колобка' in text
+    assert '##' in text
