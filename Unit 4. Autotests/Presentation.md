@@ -46,7 +46,7 @@ footer: 'Technical Excellence 101 / Unit 4. Autotests'
    * Вы можете скопировать тест **test_has_header** и изменить наэвание теста и логику
 2. Запустите тесты
    ```make test```
-   или 
+   или mak
    Cmd+Shift+P -> Run all test
 3. Убедитесь, что все тесты прошли
 

@@ -19,3 +19,6 @@ def html(change_test_dir):
 
 def test_has_header(html):
     assert '<h1>Сказка про колобка</h1>' in html
+
+def test_has_mistake(html):
+    assert '<h1>Как колобок появился</h1>' in html
